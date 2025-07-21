@@ -1,8 +1,10 @@
+
+> This is an __unofficial__ fork that fixes some deprecation errors with urllib3 and also moves the to hatchling and as build-backend
+
 # Ambra-SDK
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PyPI version](https://badge.fury.io/py/ambra-sdk.svg)](https://badge.fury.io/py/ambra-sdk)
-
 
 
 ---
